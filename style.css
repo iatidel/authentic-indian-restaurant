@@ -75,7 +75,6 @@ body {
   font-size: 65px;
   padding: 20px;
   margin: 15px;
-  text-decoration: underline;
   text-decoration-color: var(--coral);  
 }
 .menu-filter ul li{
